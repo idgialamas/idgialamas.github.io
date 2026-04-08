@@ -25,9 +25,9 @@ links:
   - icon: at-symbol
     url: ioannis.gialamas@kbfi.ee
     label: E-mail Me
-   - icon: arxiv 
+  - icon: arxiv 
     icon_pack: fab
-    link: https://inspirehep.net/authors/1603953
+    url: https://inspirehep.net/authors/1603953
   - icon: brands/github
     url: https://github.com/example
   - icon: academicons/google-scholar
