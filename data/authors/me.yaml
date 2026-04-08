@@ -44,24 +44,32 @@ interests:
   - Electroweak vacuum stability
   
 education:
+  - degree: BSc in Physics
+    institution: National and Kapodistrian University of Athens
+    start: 2011-2015
+    # end: 2013-05-31
+  - degree: MSc in Astrophysics
+    institution: National and Kapodistrian University of Athens
+    start: 2015-2017
+    # end: 2015-05-31
+    summary: |
+      Thesis: Higgs-field tunneling in the background of black holes.
+    button:
+      text: Download PhD thesis in Greek
+      url: https://pergamos.lib.uoa.gr/uoa/dl/object/1684343
+      icon: hero/arrow-down-tray
   - degree: PhD in theoretical physics
     institution: National and Kapodistrian University of Athens
     start: 2017-2021
     # end: 2021
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis: Cosmological implications of theories beyond the standard model of particle physics.
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: Download PhD thesis
+      url: https://inspirehep.net/files/d0455b3ee2ae378e4f8de744f1e8c65a
       icon: hero/arrow-down-tray
-  - degree: MSc in Astrophysics
-    institution: National and Kapodistrian University of Athens
-    start: 2015-2017
-    # end: 2015-05-31
-  - degree: BSc in Physics
-    institution: National and Kapodistrian University of Athens
-    start: 2011-2015
-    # end: 2013-05-31
+
+
 
 experience:
   - role: Postdoctoral researcher
