@@ -12,7 +12,7 @@ postnominals:
   - PhD
   - MIEEE
 status:
-  icon: "☕️"
+  icon: "⚛️"
 role: Postdoctoral Researcher in Theoretical Physics
 bio: |
   I am a postdoctoral researcher specializing in theoretical physics at the interface of gravitation and particle physics. My work focuses on fundamental questions in cosmology and high-energy physics, including the dynamics of the early universe, and the connections between quantum field theory and gravitational phenomena.
@@ -51,12 +51,12 @@ education:
       icon: hero/arrow-down-tray
   - degree: MSc in Astrophysics
     institution: National and Kapodistrian University of Athens
-    start: 2013-09-01
-    end: 2015-05-31
+    start: 2015-2017
+    # end: 2015-05-31
   - degree: BSc in Physics
     institution: National and Kapodistrian University of Athens
-    start: 2009-09-01
-    end: 2013-05-31
+    start: 2011-2015
+    # end: 2013-05-31
 
 experience:
   - role: Senior AI Research Scientist
