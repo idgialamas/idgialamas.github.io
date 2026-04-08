@@ -49,12 +49,12 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
+  - degree: MSc in Astrophysics
+    institution: National and Kapodistrian University of Athens
     start: 2013-09-01
     end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
+  - degree: BSc in Physics
+    institution: National and Kapodistrian University of Athens
     start: 2009-09-01
     end: 2013-05-31
 
