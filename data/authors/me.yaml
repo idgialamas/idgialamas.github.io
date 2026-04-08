@@ -41,8 +41,8 @@ interests:
 education:
   - degree: PhD in theoretical physics
     institution: National and Kapodistrian University of Athens
-    start: 2017
-    end: 2021
+    start: 2017-2021
+    # end: 2021
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
